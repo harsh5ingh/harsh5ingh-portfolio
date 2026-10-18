@@ -1,0 +1,167 @@
+{
+  "Python": {
+    "slug": "python",
+    "color": "#3776AB",
+    "source": "https://www.python.org/community/logos/"
+  },
+  "C++": {
+    "slug": "cplusplus",
+    "color": "#00599C",
+    "source": "https://github.com/isocpp/logos/tree/64ef037049f87ac74875dbe72695e59118b52186"
+  },
+  "JavaScript": {
+    "slug": "javascript",
+    "color": "#F7DF1E",
+    "source": "https://github.com/voodootikigod/logo.js/blob/1544bdeed6d618a6cfe4f0650d04ab8d9cfa76d9/js.svg"
+  },
+  "TypeScript": {
+    "slug": "typescript",
+    "color": "#3178C6",
+    "source": "https://www.typescriptlang.org/branding"
+  },
+  "HTML": {
+    "slug": "html5",
+    "color": "#E34F26",
+    "source": "https://www.w3.org/html/logo/"
+  },
+  "CSS": {
+    "slug": "css3",
+    "color": "#1572B6",
+    "source": "https://www.w3.org/html/logo/"
+  },
+  "React": {
+    "slug": "react",
+    "color": "#61DAFB",
+    "source": "https://github.com/facebook/create-react-app/blob/282c03f9525fdf8061ffa1ec50dce89296d916bd/test/fixtures/relative-paths/src/logo.svg"
+  },
+  "Next.js": {
+    "slug": "nextdotjs",
+    "color": "#000000",
+    "source": "https://vercel.com/design/brands#next-js"
+  },
+  "Vite": {
+    "slug": "vite",
+    "color": "#646CFF",
+    "source": "https://vitejs.dev"
+  },
+  "Tailwind CSS": {
+    "slug": "tailwindcss",
+    "color": "#06B6D4",
+    "source": "https://tailwindcss.com/brand"
+  },
+  "FastAPI": {
+    "slug": "fastapi",
+    "color": "#009688",
+    "source": "https://github.com/tiangolo/fastapi/blob/6205935323ded4767438ee81623892621b353415/docs/en/docs/img/icon-white.svg"
+  },
+  "Node.js": {
+    "slug": "nodedotjs",
+    "color": "#5FA04E",
+    "source": "https://nodejs.org/en/about/branding"
+  },
+  "PostgreSQL": {
+    "slug": "postgresql",
+    "color": "#4169E1",
+    "source": "https://wiki.postgresql.org/wiki/Logo"
+  },
+  "MySQL": {
+    "slug": "mysql",
+    "color": "#4479A1",
+    "source": "https://www.mysql.com/about/legal/logos.html"
+  },
+  "Redis": {
+    "slug": "redis",
+    "color": "#DC382D",
+    "source": "https://www.redislabs.com/brand-guidelines/"
+  },
+  "Prisma": {
+    "slug": "prisma",
+    "color": "#2D3748",
+    "source": "https://github.com/prisma/presskit/tree/4bcb64181f266723439d955d60afa1c55fefa715"
+  },
+  "Docker": {
+    "slug": "docker",
+    "color": "#2496ED",
+    "source": "https://www.docker.com/company/newsroom/media-resources"
+  },
+  "Git": {
+    "slug": "git",
+    "color": "#F05032",
+    "source": "https://git-scm.com/downloads/logos"
+  },
+  "GitHub": {
+    "slug": "github",
+    "color": "#181717",
+    "source": "https://github.com/logos"
+  },
+  "Rust": {
+    "slug": "rust",
+    "color": "#000000",
+    "source": "https://www.rust-lang.org"
+  },
+  "Tauri": {
+    "slug": "tauri",
+    "color": "#24C8D8",
+    "source": "https://github.com/tauri-apps/tauri-docs/blob/b1cdfa9d7c6d0b17dae60a90266ddced40a7b384/static/img/tauri.svg"
+  },
+  "CesiumJS": {
+    "slug": "cesium",
+    "color": "#6CADDF",
+    "source": "https://cesium.com/press/"
+  },
+  "Azure": {
+    "slug": "microsoftazure",
+    "color": "#0078D4",
+    "source": "https://github.com/microsoft/vscode-azureresourcegroups/blob/0a06362e82170fd7f8dc2496286825b1a69cc42b/resources/azure.svg"
+  },
+  "Zapier": {
+    "slug": "zapier",
+    "color": "#FF4F00",
+    "source": "https://www.figma.com/file/NQFxTCE5pGR3dHZt0DkOyy/Zapier-Brand-Guidelines-%5BExternal%5D?type=design&node-id=101-9701&mode=design"
+  },
+  "Postman": {
+    "slug": "postman",
+    "color": "#FF6C37",
+    "source": "https://www.getpostman.com/resources/media-assets/"
+  },
+  "VS Code": {
+    "slug": "visualstudiocode",
+    "color": "#007ACC",
+    "source": "https://commons.wikimedia.org/wiki/File:Visual_Studio_Code_1.35_icon.svg"
+  },
+  "LinkedIn": {
+    "slug": "linkedin",
+    "color": "#0A66C2",
+    "source": "https://brand.linkedin.com"
+  },
+  "LeetCode": {
+    "slug": "leetcode",
+    "color": "#FFA116",
+    "source": "https://leetcode.com/store"
+  },
+  "Codeforces": {
+    "slug": "codeforces",
+    "color": "#1F8ACB",
+    "source": "https://codeforces.com"
+  },
+  "JSON": {
+    "slug": "json",
+    "color": "#000000",
+    "source": "https://commons.wikimedia.org/wiki/File:JSON_vector_logo.svg"
+  },
+  "Ollama": {
+    "slug": "ollama",
+    "color": "#000000",
+    "source": "https://github.com/ollama/ollama/issues/2152#issuecomment-1905286922"
+  },
+  "LangGraph": {
+    "slug": "langgraph",
+    "color": "#1C3C3C",
+    "source": "https://www.langchain.com/langgraph"
+  },
+  "n8n": {
+    "slug": "n8n",
+    "color": "#EA4B71",
+    "source": "https://n8n.io/press"
+  }
+}

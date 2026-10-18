@@ -1,0 +1,12 @@
+{
+  "light": {
+    "background": "#f5f2ee",
+    "foreground": "#252321",
+    "accentText": "#a33b1c"
+  },
+  "dark": {
+    "background": "#121211",
+    "foreground": "#f4f0ea",
+    "accent": "#f0784e"
+  }
+}
